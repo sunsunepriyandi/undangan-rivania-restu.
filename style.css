@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to bottom right, #fffaf0, #f0e6d2);
+  color: #333;
+  text-align: center;
+}
+
+.invitation-container {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #8b0000;
+}
+
+h2 {
+  font-size: 1.7rem;
+  margin-bottom: 0.3rem;
+  color: #5a2d0c;
+}
+
+.couple-photo {
+  width: 100%;
+  max-width: 320px;
+  border-radius: 20px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.event-info {
+  margin-top: 1.2rem;
+  font-weight: bold;
+}
+
+.salam {
+  font-style: italic;
+  margin-top: 1.2rem;
+}
+
+.closing {
+  margin-top: 2rem;
+  font-weight: bold;
+}
